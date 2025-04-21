@@ -3,6 +3,7 @@
     "description": "Variation of phpquery library from the original code available in the [Google Code Archive](https://code.google.com/archive/p/phpquery/) for php 8.3",
     "type": "library",
     "license": "MIT",
+	"minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "phpQuery": "src"
