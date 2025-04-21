@@ -1,0 +1,23 @@
+{
+    "name": "rsdim/phpquery",
+    "description": "Variation of phpquery library from the original code available in the [Google Code Archive](https://code.google.com/archive/p/phpquery/) for php 8.3",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "phpQuery": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "rsdim",
+            "email": "rsdim@rambler.ru"
+        }
+    ],
+	"require": {
+        "php": ">=8.3.0"
+    }
+}
+
+
+    
